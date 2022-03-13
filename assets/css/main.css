@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.right_nav>a,ion-icon{
+    margin: 0 1rem;
+    cursor: pointer;
+}
+.main_banner{
+    padding-top: 180px;
+    padding-bottom: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.form{
+    
+}
